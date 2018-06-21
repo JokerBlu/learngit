@@ -6,8 +6,6 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 Hei Hei Hei.
 BugBranch.
-<<<<<<< HEAD
-This is a error.
-=======
 exercise rebase.
->>>>>>> insert rebase
+This is a error.
+exercise rebase.
